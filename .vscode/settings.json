@@ -1,0 +1,13 @@
+{
+    // Editor Settings
+    "editor.fontSize": 20,
+    "editor.lineHeight": 22,
+    "editor.cursorBlinking": "phase",
+    "editor.cursorStyle": "block-outline",
+
+    // Window Settings
+    "window.zoomLevel": -2,
+
+    // Debug Settings
+    "debug.toolBarLocation": "docked",
+}
